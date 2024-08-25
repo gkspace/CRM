@@ -54,6 +54,11 @@ Before you begin, ensure you have met the following requirements:
 
    The server will start on `http://localhost:5000`.
 
+5. **To run test cases :**
+   ```basg
+   npm test
+   ```
+
 ## API Endpoints
 
 ### Authentication
